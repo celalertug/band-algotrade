@@ -1,0 +1,29 @@
+{
+    "base_currency": "USDT",
+    "poslimit": 6,
+    "write_down_trade_history": true,
+    "access_id": "coinex access id",
+    "secret": "coinex secret",
+    "long_task_interval_min": 5,
+    "short_task_interval_sec": 5,
+    "basket": [
+        "EOSUSDT",
+        "LFTUSDT",
+        "DASHUSDT",
+        "OLTUSDT",
+        "BCHUSDT",
+        "LTCUSDT",
+        "BTCUSDT",
+        "ETHUSDT",
+        "ETCUSDT",
+        "XRPUSDT",
+        "SCUSDT",
+        "XMRUSDT",
+        "ZECUSDT"
+    ],
+    "stop_level_perc": 8,
+    "period_length": 48,
+    "degree_level": 10,
+    "trace_level": 10,
+    "target_rm_length": 1
+}
